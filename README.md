@@ -15,27 +15,27 @@ Tweet reference: https://twitter.com/vxunderground/status/1498585322929770500?s=
 
 
 ## Slang / translation of technical terms
-Hell = AD
-YES = DA
-wheelbarrow = host
-Cars = hosts
-Credits = creds (usrname/pw)
-Vmik = wmic
-Grid = network
-Facial expressions = mimikatz
-Firework = firewall
-Whining = эс ку эл = SQL
-School = SQL
-Balls = shares
-Zithers = Citrix?
-Food = FUD/Undetectable
-tpsh = their proprietary tool for handling initial access
-silkcode = shellcode
-Cue balls = Bitcoin
-Rockets = Rocket Chat
-Toad = Jabber
-Gasket = Space/Connections? - still unclear
-Scarfinder = sharefinder
-Swear = detect
-Grandfather = dedik = attack box
-Met/h = Metasploit
+Hell = AD<br>
+YES = DA<br>
+wheelbarrow = host<br>
+Cars = hosts<br>
+Credits = creds (usrname/pw)<br>
+Vmik = wmic<br>
+Grid = network<br>
+Facial expressions = mimikatz<br>
+Firework = firewall<br>
+Whining = эс ку эл = SQL<br>
+School = SQL<br>
+Balls = shares<br>
+Zithers = Citrix?<br>
+Food = FUD/Undetectable<br>
+tpsh = their proprietary tool for handling initial access<br>
+silkcode = shellcode<br>
+Cue balls = Bitcoin<br>
+Rockets = Rocket Chat<br>
+Toad = Jabber<br>
+Gasket = Space/Connections? - still unclear<br>
+Scarfinder = sharefinder<br>
+Swear = detect<br>
+Grandfather = dedik = attack box<br>
+Met/h = Metasploit<br>
