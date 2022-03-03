@@ -12,3 +12,30 @@ Original source: https://anonfiles.com/7eb2hcL6x8/rocket-chat_tgz<br>
 
 ## TrickBot Forum (THANKS @vxunderground)
 Tweet reference: https://twitter.com/vxunderground/status/1498585322929770500?s=20&t=cRnqOQuw0nLASBCqK5IqZA
+
+
+## Slang / translation of technical terms
+Hell = AD
+YES = DA
+wheelbarrow = host
+Cars = hosts
+Credits = creds (usrname/pw)
+Vmik = wmic
+Grid = network
+Facial expressions = mimikatz
+Firework = firewall
+Whining = эс ку эл = SQL
+School = SQL
+Balls = shares
+Zithers = Citrix?
+Food = FUD/Undetectable
+tpsh = their proprietary tool for handling initial access
+silkcode = shellcode
+Cue balls = Bitcoin
+Rockets = Rocket Chat
+Toad = Jabber
+Gasket = Space/Connections? - still unclear
+Scarfinder = sharefinder
+Swear = detect
+Grandfather = dedik = attack box
+Met/h = Metasploit
